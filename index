@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>076f049ec0ab427a96a2328b65d1c151</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div class="center">
+<h1 align="center"><span><strong><span class="smallcaps">Mathematics of Sea Ice and Ice
+Sheets - 2024</span></strong></span></p>
+</div>
+<div class="center" align="center">
+<p><span><strong>Programme Schedule</strong></span></p>
+</div>
+<p><strong>Times are local to the UK (GMT 0). Moreover, the presentation time is 20 minutes, followed by 5 minute dis-
+cussion and 5 minutes changeover.</strong><br />
+</p>
+<div class="center">
+<p><span class="smallcaps">Friday 29th November, 2024</span></p>
+</div>
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><span
+class="smallcaps">Afternoon</span></td>
+<td style="text-align: left;"><span class="smallcaps"><em>Chair</em>:
+<strong>xxxxx</strong></span></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">05:00 – 05:30</td>
+<td style="text-align: left;">Evaluation of ice dissipation parameterizations in spectral ocean
+wave model WAVEWATCH III: An intercomparison analysis </td>
+<td style="text-align: left;">Fabien Montiel</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">5:30 – 06:00 </td>
+<td style="text-align: left;">What images of sea ice tell us about the Marginal Ice Zone </td>
+<td style="text-align: left;">Giulio Passerotti</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">06:00 – 06:30</td>
+<td style="text-align: left;">Nonlinear hydroelastic wave in the channel due to the bottom
+topography</td>
+<td style="text-align: left;">Chuang Liang</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">06:30 – 07:00</td>
+<td style="text-align: left;">Oblique wave scattering by dual inverse Π-type breakwaters be-
+neath an ice-covered ocean</td>
+<td style="text-align: left;">Biman Sarkar</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">07:00 – 07:30</td>
+<td style="text-align: left;">Instability mechanism of shear-layered fluid in the presence of a
+floating elastic plate</td>
+<td style="text-align: left;">Md. Mouzakkir Hossain</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">07:30 – 08:00</td>
+<td style="text-align: left;">Flexural gravity wave motion over multiple sinusoidal seabeds</td>
+<td style="text-align: left;">Neha Bisht</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><span
+class="smallcaps">Afternoon</span></td>
+<td style="text-align: left;"><span class="smallcaps"><em>Chair</em>:
+<strong>Mike Meylan</strong></span></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">08:15 – 08:45</td>
+<td style="text-align: left;">Motion of Submerged Body in a Frozen Channel with Compressed
+Porous Ice</td>
+<td style="text-align: left;">Tatyana Sibiryakova</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">08:45 – 09:15</td>
+<td style="text-align: left;">Mathematical Modeling of the Viscoelastic Floating Flexible
+Membrane Placed Over Variable Bathymetry Regions Under
+Oblique Water Waves</td>
+<td style="text-align: left;">Kailash Chand Swami</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">09:15 – 09:45</td>
+<td style="text-align: left;">Flexural-gravity waves in an ice-covered ocean induced by oscilla-
+tory pressure in presence of currents</td>
+<td style="text-align: left;">Selina Hossain</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">09:45 – 10:15</td>
+<td style="text-align: left;">Viscoelastic Membrane Dynamics: Influence of Bathymetry and
+Random Wave Conditions</td>
+<td style="text-align: left;">Santanu Kumar Dash</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">10:15 – 10:45 </td>
+<td style="text-align: left;">Wave scattering by an array of submerged trapezoidal breakwaters
+: an analytic approach</td>
+<td style="text-align: left;">Pawan Negi
+r</td>
+</tr>
+</tbody>
+</table>
+<div id="table:1">
+<table>
+<caption>Different time zones are mentioned. Keeping in mind that the
+above-mentioned schedules are given in UK time. For 5 AM UK, the corresponding time in different parts of the world are given.</caption>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Beijing</th>
+<th style="text-align: center;">Aus (Sydney)</th>
+<th style="text-align: center;">Ind</th>
+<th style="text-align: center;">UK</th>
+<th style="text-align: center;">USA/CAN</th>
+<th style="text-align: center;">Russia (Barnaul)</th>
+<th style="text-align: center;">NZ</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">13:00</td>
+<td style="text-align: center;">16:00</td>
+<td style="text-align: center;">10:30</td>
+<td style="text-align: center;">05:00</td>
+<td style="text-align: center;">00:00 (-1 D)</td>
+<td style="text-align: center;">12:00</td>
+<td style="text-align: center;">18:00</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
